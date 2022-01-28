@@ -1,0 +1,7 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="" group-title="España" tvg-name="Telecinco",Telecinco
+https://live.mitele.es/hls/live/2004101/telecinco/master.m3u8?hdnts=st=1643397680~exp=1643397770~ip=90.164.47.152~acl=/*~hmac=d4c28f0724321
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
