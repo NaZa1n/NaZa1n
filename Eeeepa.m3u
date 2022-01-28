@@ -1,0 +1,3 @@
+#EXTM3U
+ #EXTINF:-1 tvg-id="Telecinco"
+https://live.mitele.es/hls/live/2004101/telecinco/master.m3u8?hdnts=st=1643397680~exp=1643397770~ip=90.164.47.152~acl=/*~hmac=d4c28f0724321
